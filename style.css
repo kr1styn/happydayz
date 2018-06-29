@@ -1,0 +1,17 @@
+body{
+  /*background-color: linear-gradient(red, yellow);*/
+  font-family: sans-serif;
+  margin: 40px 20px 20px 20px;
+}
+h1{
+  text-align: center;
+}
+#grad1 {
+    height: 200px;
+    margin-bottom: 70;
+    margin-top: 70;
+}
+body{
+  text-align: center;
+  background: linear-gradient(cyan, blue);
+}
